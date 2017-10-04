@@ -15,7 +15,7 @@ De moeilijkheidsgraad zat hem voor mij in de JavaScript. Ik ben daar nog niet he
 
 ## Hieronder staat de code zoals ik hem van de website van D3 heb gehaald.:
 
-
+```
 <!DOCTYPE html>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -76,10 +76,12 @@ d3.tsv("data.tsv", function(d) {
 });
 
 </script>
+```
 
 ## Hieronder staat mijn aangepaste code
 
-'''<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -141,7 +143,8 @@ d3.csv("assesment.csv", function(d) {
       .attr("d", line);
 });
 
-</script>'''
+</script>
+```
 
 Zoals je ziet heb ik de d3.timeParse aangepast van ("%d-%b-%y") naar ("%Y%m%d"). Dit omdat het hier om Year, Month en Date gaat. Daarna heb ik de d3.tsv("data.tsv", aangepast naar d3.csv("assesment.csv", omdat mijn bestand een CSV file is.
 
