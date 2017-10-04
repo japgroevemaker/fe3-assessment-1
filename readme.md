@@ -152,7 +152,7 @@ Als laatste heb ik ```d.date = parseTime(d.date);``` en ```d.close = +d.close;``
 
 ###### Review
 
-Het was een erg moeilijke en stressvolle opdracht. Maar nu ik eenmaal weet hoe het precies moet vraag ik mezelf af waarom ik mij zo druk heb gemaakt. Ik vind wel dat je een beetje in het diepe wordt gegooid. Ik ben nog redelijke een leek als het gaat om JS en helemaal in combinatie met nieuwe dingen. Daarnaast vind ik dat we wel erg kort de tijd hebben voor bepaalde opdrachten.
+Het was een erg moeilijke en stressvolle opdracht. Maar nu ik eenmaal weet hoe het precies moet vraag ik mezelf af waarom ik mij zo druk heb gemaakt. Ik vind wel dat je een beetje in het diepe wordt gegooid. Ik ben nog redelijke een leek als het gaat om JS en helemaal in combinatie met nieuwe dingen. Daarnaast vind ik dat we wel erg kort de tijd hebben voor bepaalde opdrachten..
 
 ###### Bronnen
 
