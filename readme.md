@@ -146,9 +146,9 @@ d3.csv("assesment.csv", function(d) {
 </script>
 ```
 
-Zoals je ziet heb ik de d3.timeParse aangepast van ("%d-%b-%y") naar ("%Y%m%d"). Dit omdat het hier om Year, Month en Date gaat. Daarna heb ik de d3.tsv("data.tsv", aangepast naar d3.csv("assesment.csv", omdat mijn bestand een CSV file is.
+Zoals je ziet heb ik de d3.timeParse aangepast van ```("%d-%b-%y")``` naar ```("%Y%m%d")```. Dit omdat het hier om Year, Month en Date gaat. Daarna heb ik de ```d3.tsv("data.tsv",``` aangepast naar ```d3.csv("assesment.csv,``` omdat mijn bestand een CSV file is.
 
-Als laatste heb ik d.date = parseTime(d.date); en d.close = +d.close; aangepast naar d.date = parseTime(d.date); d.temp = +d.temp; omdat dit de de waardes binnen mijn CSV file aangeeft.
+Als laatste heb ik ```d.date = parseTime(d.date);``` en ```d.close = +d.close;``` aangepast naar ```d.date = parseTime(d.date);``` ```d.temp = +d.temp;``` omdat dit de de waardes binnen mijn CSV file aangeeft.
 
 ###### Review
 
