@@ -154,11 +154,13 @@ Als laatste heb ik ```d.date = parseTime(d.date);``` en ```d.close = +d.close;``
 
 Het was een erg moeilijke en stressvolle opdracht. Maar nu ik eenmaal weet hoe het precies moet vraag ik mezelf af waarom ik mij zo druk heb gemaakt. Ik vind wel dat je een beetje in het diepe wordt gegooid. Ik ben nog redelijke een leek als het gaat om JS en helemaal in combinatie met nieuwe dingen. Daarnaast vind ik dat we wel erg kort de tijd hebben voor bepaalde opdrachten.
 
+###### Bronnen
+
 Line chart: [`https://bl.ocks.org/mbostock/3883245`]
 
-[Hulp]: https://github.com/d3/d3-time-format/blob/master/README.md#timeParse
+Hulp: [`https://github.com/d3/d3-time-format/blob/master/README.md#timeParse`]
 
-[hulp]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Calling_functions
+hulp: [`https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Calling_functions`]
 
-[Data]: https://github.com/cmda-fe3/course-17-18/blob/master/assessment-1/temperature.csv
+Data: [`https://github.com/cmda-fe3/course-17-18/blob/master/assessment-1/temperature.csv`]
 
